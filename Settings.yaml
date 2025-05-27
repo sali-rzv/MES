@@ -1,0 +1,5 @@
+Start_Year : 1381
+End_Year : 1401
+Settings_Path : ../Settings.yaml
+Raw_Path : ../Raw
+Output_Path : ../Output
