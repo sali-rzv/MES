@@ -3,3 +3,5 @@ End_Year : 1401
 Settings_Path : ../Settings.yaml
 Raw_Path : ../Raw
 Output_Path : ../Output
+Workshop_Codes : ../Output/000_WorkShop_Codes.xlsx
+Province_Codes : ../Output/001_Province_Codes.xlsx
