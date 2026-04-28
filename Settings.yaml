@@ -5,8 +5,8 @@ Raw_Path : ../../Raw
 Output_Path_General : ../../Output/0_General
 Output_Path_Unajusted : ../../Output/1_Unadjusted
 Output_Path_Ajusted : ../../Output/2_Adjusted
-Workshop_Codes : ../../Output/0_General/000_WorkShop_Codes.xlsx
-Province_Codes : ../../Output/0_General/001_Province_Codes.xlsx
-PPI : ../../Output/0_General/002_PPI.xlsx
+Workshop_Codes : ../../Output/0_General/General.xlsx
+Province_Codes : ../../Output/0_General/General.xlsx
+PPI : ../../Output/0_General/General.xlsx
 Workshop_Statistic : ../../Output/1_Unadjusted/010_WorkShop_Statistics_By_Activity.xlsx
 Workshop_Input : ../../Output/1_Unadjusted/030_WorkShop_Input_By_Activity.xlsx
